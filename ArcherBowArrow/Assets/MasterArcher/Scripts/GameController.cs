@@ -167,7 +167,7 @@ public class GameController : MonoBehaviour {
 	}
 	public void ContinueGame()
 	{
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("ghecf1k2f8k521na59",
             (bol) => {
                 if (bol)
                 {
@@ -203,7 +203,7 @@ public class GameController : MonoBehaviour {
 		Time.timeScale = 1;
         ContinueGamePanel.SetActive(false);
         StartCoroutine(finishTheGame(0));
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("1lkc13m9g9831jp5kf",
             () => {
                 Debug.LogError("--插屏广告完成--");
 
@@ -220,7 +220,7 @@ public class GameController : MonoBehaviour {
 	}
 	public void AddTime()
 	{
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("ghecf1k2f8k521na59",
             (bol) => {
                 if (bol)
                 {
@@ -254,7 +254,7 @@ public class GameController : MonoBehaviour {
         Time.timeScale = 1;
         AddTimePanel.SetActive(false);
         StartCoroutine(finishTheGame(2));
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("1lkc13m9g9831jp5kf",
             () => {
                 Debug.LogError("--插屏广告完成--");
 
@@ -290,14 +290,7 @@ public class GameController : MonoBehaviour {
 		if (EnemyController.isEnemyDead) {
 			//player is winner
 			StartCoroutine(finishTheGame (1));
-            ShowInterstitialAd("1lcaf5895d5l1293dc",
-            () => {
-                Debug.LogError("--插屏广告完成--");
-
-            },
-            (it, str) => {
-                Debug.LogError("Error->" + str);
-            });
+            
         } else if (PlayerController.isPlayerDead) {
 			//we have lost
 			SelectGontinue();

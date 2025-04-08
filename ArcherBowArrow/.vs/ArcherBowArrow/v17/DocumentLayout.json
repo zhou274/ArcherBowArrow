@@ -3,33 +3,50 @@
   "WorkspaceRootPath": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|d:\\unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\archerbowarrow\\assets\\masterarcher\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|d:\\unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\archerbowarrow\\assets\\masterarcher\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\images\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\images\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\explosionatlas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\explosionatlas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\weapons\\trajectorypointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\weapons\\trajectorypointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\weapons\\masterweaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\weapons\\masterweaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\assets\\masterarcher\\scripts\\weapons\\mainlaunchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D9B73A-8F47-A531-ABAF-829D4B2FD0BA}|Assembly-CSharp.csproj|solutionrelative:assets\\masterarcher\\scripts\\weapons\\mainlaunchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,11 +56,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "InitAd.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\Images\\InitAd.cs",
+              "RelativeDocumentMoniker": "Assets\\Images\\InitAd.cs",
+              "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\Images\\InitAd.cs",
+              "RelativeToolTip": "Assets\\Images\\InitAd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:06:38.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "trajectoryPointController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\Weapons\\trajectoryPointController.cs",
+              "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\Weapons\\trajectoryPointController.cs",
+              "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\Weapons\\trajectoryPointController.cs",
+              "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\Weapons\\trajectoryPointController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:03:45.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterWeaponManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\Weapons\\MasterWeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\Weapons\\MasterWeaponManager.cs",
+              "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\Weapons\\MasterWeaponManager.cs",
+              "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\Weapons\\MasterWeaponManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:03:35.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\AdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\AdManager.cs",
+              "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\AdManager.cs",
+              "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\AdManager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:03:21.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs [\u53EA\u8BFB]",
@@ -54,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "ADManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs [\u53EA\u8BFB]",
@@ -65,27 +130,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CebianlanManager(1).cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T05:45:44.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CebianlanManager.cs",
               "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\CebianlanManager.cs",
               "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\CebianlanManager.cs",
               "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\CebianlanManager.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAkwIwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvy8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T05:45:32.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T05:45:32.994Z"
             },
             {
               "$type": "Document",
@@ -95,21 +148,9 @@
               "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\EnemyController.cs",
               "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\EnemyController.cs",
               "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\EnemyController.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAewI0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAYwAMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T05:02:33.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainLauncherController.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\Weapons\\MainLauncherController.cs",
-              "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\Weapons\\MainLauncherController.cs",
-              "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\Weapons\\MainLauncherController.cs",
-              "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\Weapons\\MainLauncherController.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAAAO4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T04:57:29.176Z"
             },
             {
               "$type": "Document",
@@ -119,20 +160,44 @@
               "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\GameController.cs",
               "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\GameController.cs",
               "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\GameController.cs",
-              "ViewState": "AgIAACABAAAAAAAAAAAUwCUBAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAtwCQBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T03:46:04.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "ExplosionAtlas.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\ExplosionAtlas.cs",
+              "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\ExplosionAtlas.cs",
+              "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\ExplosionAtlas.cs",
+              "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\ExplosionAtlas.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:04:31.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLauncherController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\Weapons\\MainLauncherController.cs",
+              "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\Weapons\\MainLauncherController.cs",
+              "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\Weapons\\MainLauncherController.cs",
+              "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\Weapons\\MainLauncherController.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAkwI4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:57:29.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\MasterArcher\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\Unity\\\u6700\u5F3A\u5F13\u7BAD\u624B\\ArcherBowArrow\\Assets\\MasterArcher\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\MasterArcher\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAWwJwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACYBAAAAAAAAAAAYwDsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T03:39:59.875Z"
             }
